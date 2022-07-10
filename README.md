@@ -19,7 +19,7 @@ Having the support only from the other ankle will add up a forward motion, and t
 
 Lastly, Rotating the hip can add up a forward motion to the leg, and its proportional to the angle of rotation, How ever, the hip rotating here is used to recover the front side of the first foot being lifted.
 
-** Making the Calculations: **
+**Making the Calculations:**
 
 distance Traveled: 13cm
 
