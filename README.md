@@ -21,9 +21,11 @@ Lastly, Rotating the hip can add up a forward motion to the leg, and its proport
 
 Making the Calculations: 
 distance Traveled: 13cm
+
 Leg size: 59.234cm
 
 using Tan Inverse,
+
 Angle of movement: 12.378
 
 **Here is my initial thought process:**
